@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color:black ;
+    height: 55px;
+}
+nav a {
+    align-items: right;
+    background-color:rgb(190, 253, 255);
+}
+img {
+    height: 50px;
+}
+.one {
+    background-color: rgb(245, 248, 250);
+    text-align: center;
+    padding: 1%;
+    text-shadow: 1px 1px 2px rgb(252, 198, 198);
+    box-shadow:none,
+    
+}
+.two {
+    background-color:rgb(245, 248, 250) ;
+    padding: 2%;
+    text-align: justify;
+}
+.three {
+    background-color: rgb(245, 248, 250);
+    padding: 2%;
+}
+.four {
+    background-color: rgb(245, 248, 250);
+    padding: 1%;
+    text-align: justify;
+}
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.hi {
+    background-color: rgb(245, 248, 250);
+    padding: 2%;
+    text-align: justify;
+}
+.hello {
+    text-align: justify;
+    background-color: rgb(245, 248, 250);
+    padding: 2%;
+}
+.okay {
+    background-color: rgb(245, 248, 250);
+    padding: 2%;
+    margin: 10px;
+    text-align: justify;
+}
+a:hover {
+    color: black;
+    border: 2px solid;
+    border-radius: 15%;
+}
